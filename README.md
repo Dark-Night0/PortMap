@@ -23,7 +23,9 @@ Download PortMap by cloning the Git repository:
 
 ![alt text](.installation.png)
 
-<br />```$ sudo ./portmap```
+<br />```$ sudo ./portmap.sh```
+<br />
+<br />
 ![alt text](.background.png)
 
 ## Usage
